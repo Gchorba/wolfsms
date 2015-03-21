@@ -2,7 +2,7 @@
 
 include 'wa_wrapper/WolframAlphaEngine.php';
 
-$appID = 'XXX';
+$appID = '8AUKRK-KQLHKJXRXY';
 
 $engine = new WolframAlphaEngine($appID);
 
